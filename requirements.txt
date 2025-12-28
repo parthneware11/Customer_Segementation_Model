@@ -5,6 +5,4 @@ scikit-learn
 joblib
 matplotlib
 plotly
-streamlit==1.25.0
-scikit-surprise
-pyarrow
+
